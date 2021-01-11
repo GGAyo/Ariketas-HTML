@@ -1,0 +1,16 @@
+header
+{
+    color: rgb(143, 6, 6);    
+}
+main
+{
+    color: rgb(16, 105, 8);
+}
+*
+{
+    font-family: "Helvetica", sans-serif;
+}
+footer
+{
+    color: rgb(55, 87, 129);
+}

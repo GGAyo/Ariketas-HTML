@@ -1,0 +1,22 @@
+
+/*  1. Haz el título de la cabecera de un color
+    2. el fondo del contenido de otro  
+    3. el texto del pie de página de un tercer color */
+
+h1
+{
+    color: rgb(17, 145, 184);    
+}
+main
+{
+    background-color: rgb(211, 211, 46);
+}
+*
+{
+    font-family: "Helvetica", sans-serif;
+}
+#footer
+{
+    color: rgb(163, 19, 98);
+}
+
